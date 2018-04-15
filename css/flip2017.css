@@ -66,18 +66,19 @@ That makes the main content white.
 #flip-moved-social-icons ul.social-icon {
   display: inline-flex;
   flex-direction: row;
-  flex-wrap: wrap;
+  
   list-style: none;
-  padding: 0;
-  margin-top: 5px;
+  padding: 0px;
+  margin-top: 0px;
 }
 
 #flip-moved-social-icons .social-icon li {
-  margin-right: 5px;
+  margin-left: 0px;
 }
 
 #flip-moved-social-icons .social-icon li:last-of-type {
-  margin-right: 0;
+  margin-right: 1px;
+  margin-left: 1px;
 }
 
 #flip-moved-social-icons .social-icon li:hover {
@@ -89,7 +90,7 @@ That makes the main content white.
 }
 
 #flip-moved-social-icons a:hover{
-  color: #ff00ff;
+  color: #249ad6;
 }
 
 

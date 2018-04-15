@@ -6,7 +6,7 @@ h3.article-title a:hover {
 }
 
 a:hover {
-    color: #17909a;
+    color: #249ad6;
 }
 
 .navbar-default .navbar-nav li a:hover,
@@ -90,13 +90,13 @@ a:hover {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 1rem;
-  color: #3170A5;
+  font-size: 0.9rem;
+  color: black;
 }
 
 .pub-list-item .pub-publication {
   color: #808080;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .pub-list-item .pub-links {
