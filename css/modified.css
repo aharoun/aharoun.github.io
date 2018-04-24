@@ -1,0 +1,189 @@
+
+ @media screen and (min-width: 58em) {
+   html {
+     font-size: 20px;
+   }
+ }
+
+/* GRAY TEXT */
+.comment{
+  font-family: 'Raleway', sans-serif;
+  color: #AAAAAA;
+}
+
+body{
+  background-color:gray;
+  /*background-color: #ffffff;*/
+}
+
+#THECONTENT{
+  background-color: #ffffff;
+}
+/*
+WHAT THIS IS:
+In body{} above I set the background color to dark gray.
+This is so that the background color matches the footer.
+(Otherwise if you over-scroll then you end up getting white)
+#THECONTENT is a div tag that opens at the bottom of navbar.html
+and closes at the top of footer_container.html
+That makes the main content white.
+*/
+
+
+.btn{
+  font-family: 'Raleway', sans-serif;
+}
+
+/* FOR HONORS LIST IN CV */
+.ul-honors{
+  font-family: 'Raleway', sans-serif;
+  color: #AAAAAA;
+  list-style: none;
+}
+
+
+
+#profile .portrait {
+  background-image: url('../img/portrait.jpg');
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+
+
+
+#flip-moved-social-icons ul.social-icon {
+  display: inline-flex;
+  flex-direction: row;
+  
+  list-style: none;
+  padding: 0px;
+  margin-top: 0px;
+}
+
+#flip-moved-social-icons .social-icon li {
+  margin-left: 0px;
+}
+
+#flip-moved-social-icons .social-icon li:last-of-type {
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+#flip-moved-social-icons .social-icon li:hover {
+  transform: scale(1.2)
+}
+
+#flip-moved-social-icons a{
+  color: #AAAAAA;
+}
+
+#flip-moved-social-icons a:hover{
+  color: #249ad6;
+}
+
+
+
+/* Watermark
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* to make "white bg" transparent */
+.home-section {
+  background-color: transparent;
+  /*z-index: 1;*/ /* Bootstraps default z-indices are around 1000 */
+}
+
+#watermark{
+	/*background-image:url('http://physics.ucr.edu/~flip/images/BG_Bundle2.jpg');*/
+	background-size: 700px 350px;
+	background-repeat:no-repeat;
+	background-position:left top;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	left: 0px;
+  pointer-events: none;
+	/*z-index: 0;*/
+  /* -1: doesn't show on home page; 0+: no links on other pages */
+  /* less than zero */
+  /* causes problems with other pages */
+  /* solution: https://stackoverflow.com/questions/3538489/html-css-make-a-div-invisible-to-clicks */
+	height: 100%;
+	width: 100%;
+	text-align: right;
+	opacity: 0.1;
+}
+
+.sidebarpic{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+
+/* FOOTER */
+
+
+footer {
+  font-family: 'Raleway', sans-serif;
+  background-color:#191919;
+  margin: 4rem 0 0;
+  padding: 0.5rem 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: 0.6rem;
+  text-align: center;
+}
+
+.site-footer,
+footer a#back_to_top i {
+  color: #899596;
+}
+
+#botbar1{
+	background-color:#555555;
+	margin: 0;
+	padding: 0;
+  position:relative;
+	top: 75px;
+	left: 0px;
+	z-index: 9;
+	height: 7px;
+	width: 100%;
+}
+/* Why is this exactly 927? I do not know! Trial-and-error. */
+@media screen and (max-width: 927px) {
+  #botbar1{
+    top: 15px;
+  }
+}
+
+/* NAVBAR coloring */
+
+.navbar-default{
+    background-color:rgba(0, 0, 0, 0.75);
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav li a{
+    color: white;
+}
+
+.navbar-default .navbar-nav li a:hover{
+    background-color: #333333;
+}
