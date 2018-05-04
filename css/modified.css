@@ -79,14 +79,14 @@ That makes the main content white.
   transform: scale(1.2)
 }
 
-#flip-moved-social-icons a{
+/*#flip-moved-social-icons a{
   color: #AAAAAA;
 }
 
 #flip-moved-social-icons a:hover{
   color: #249ad6;
 }
-
+*/
 
 
 /* Watermark
