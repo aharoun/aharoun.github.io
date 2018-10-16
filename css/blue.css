@@ -22,7 +22,7 @@ a:hover {
 .btn-primary,
 .btn-primary.btn-outline {
     border-color: #343434;
-    background-color: #343434;
+    background-color:#343434 ;
     
 
 }
@@ -30,7 +30,11 @@ a:hover {
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: #343434
+    border-color: black;
+    background-color: #eee9e9;
+    color: black;
+
+
 
 }
 
@@ -51,7 +55,7 @@ a:hover {
 
 .pub-icon {
   color: #03396c;
-  font-size: 0.86em;
+  font-size: 0.96em;
   padding-top: 6px;
 }
 
@@ -82,6 +86,12 @@ a:hover {
   margin-bottom: 40px;
 }
 
+.pub-list-item .titlePaper {
+  font-size: 1rem;
+  color: #03396c;
+  
+}
+
 .pub-list-item .pub-abstract {
   font-size: 1rem;
   text-align: justify;
@@ -101,6 +111,7 @@ a:hover {
 
 .pub-list-item .pub-links {
   padding-top: 10px;
+  
 }
 
 #container-publications {
