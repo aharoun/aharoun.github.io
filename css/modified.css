@@ -52,10 +52,10 @@ That makes the main content white.
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  width: 230px;
-  height: 230px;
+  width: 220px;
+  height: 220px;
   margin: 0 auto;
-  border-radius: 50%;
+  border-radius: 90%;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -67,10 +67,10 @@ That makes the main content white.
 #flip-moved-social-icons ul.social-icon {
   display: inline-flex;
   flex-direction: row;
-  
+  margin-left: 0px;
   list-style: none;
   padding: 0px;
-  margin-top: 0px;
+  margin-top: 10px;
 }
 
 #flip-moved-social-icons .social-icon li {
@@ -195,3 +195,27 @@ footer a#back_to_top i {
     background-color: #333333;
 }
 
+/*************************************************
+ *  Contact
+ **************************************************/
+
+#contact.home-section .fa-ul {
+  margin-left: 3.14285714rem; /* Must be > `fa-2x` icon size. */
+}
+
+#contact.home-section .fa-li {
+  position: absolute;
+  left: -3.14285714rem; /* Negative of `#contact.home-section .fa-ul` margin. */
+  width: 2rem; /* Match `fa-2x` icon size. */
+  top: 0.14285714em; /* Default FA value. */
+  text-align: center;
+}
+
+#contact.home-section li {
+  padding-top: 0.5rem; /* Align text with bottom of `fa-2x` icon. */
+  margin-bottom: 0.3rem;
+}
+
+#contact.home-section li:last-of-type {
+  margin-bottom: 0;
+}

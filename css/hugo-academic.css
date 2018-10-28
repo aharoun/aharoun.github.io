@@ -725,7 +725,7 @@ article {
 }
 
 #contact.home-section li {
-  padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
+  padding-top: 0.5rem; /* Align text with bottom of `fa-2x` icon. */
   margin-bottom: 0.3rem;
 }
 

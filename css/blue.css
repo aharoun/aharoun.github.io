@@ -87,7 +87,7 @@ a:hover {
 }
 
 .pub-list-item .titlePaper {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: #03396c;
   
 }
@@ -100,13 +100,13 @@ a:hover {
 .pub-list-item .pub-authors {
   line-height: normal;
   font-style: normal;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: black;
 }
 
 .pub-list-item .pub-publication {
   color: #808080;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 .pub-list-item .pub-links {
