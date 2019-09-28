@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aaabk/</loc>
-      <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+      <loc>https://aharoun.github.io/</loc>
+      <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -14,7 +14,16 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/</loc>
+      <loc>https://aharoun.github.io/publication/aaabk/</loc>
+      <lastmod>2018-05-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://aharoun.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aap/</loc>
+      <loc>https://aharoun.github.io/publication/aap/</loc>
       <lastmod>2016-01-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aaen/</loc>
+      <loc>https://aharoun.github.io/publication/aaen/</loc>
       <lastmod>2014-06-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aesthai/</loc>
+      <loc>https://aharoun.github.io/publication/aesthai/</loc>
       <lastmod>2012-11-08T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aos/</loc>
+      <loc>https://aharoun.github.io/publication/aos/</loc>
       <lastmod>2012-03-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aeskorea/</loc>
+      <loc>https://aharoun.github.io/publication/aeskorea/</loc>
       <lastmod>2012-01-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/styfacts/</loc>
+      <loc>https://aharoun.github.io/publication/styfacts/</loc>
       <lastmod>2012-01-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aeturkey/</loc>
+      <loc>https://aharoun.github.io/publication/aeturkey/</loc>
       <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +95,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/abkyhpfilter/</loc>
+      <loc>https://aharoun.github.io/publication/abkyhpfilter/</loc>
       <lastmod>2011-02-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +104,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/akkgo/</loc>
+      <loc>https://aharoun.github.io/publication/akkgo/</loc>
       <lastmod>2010-10-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +113,7 @@
     
     <url>
     
-      <loc>https://www.harunalp.net/publication/aarko/</loc>
+      <loc>https://aharoun.github.io/publication/aarko/</loc>
       <lastmod>2009-05-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,9 +122,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.harunalp.net/" hreflang="en"/>
-    
-      <loc>https://www.harunalp.net/</loc>
+      <loc>https://aharoun.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -124,30 +131,7 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://www.harunalp.net/" hreflang="en"/>
-    
-      <loc>https://www.harunalp.net/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://www.harunalp.net/" hreflang="en"/>
-    
-      <loc>https://www.harunalp.net/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://www.harunalp.net/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <loc>https://aharoun.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
