@@ -19,7 +19,7 @@ font-family: 'Merriweather', sans-serif;
 }
 
 body{
-  background-color:gray;
+  background-color:#ffffff;
   /*background-color: #ffffff;*/
 }
 
@@ -176,19 +176,50 @@ footer a#back_to_top i {
     top: 15px;
   }
 }
+/* Navigation bar size */
+.navbar {
+  min-height: 40px !important;
+  height: 60px !important;
+}
+
+/* navigation bar active color*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: white;
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
 
 /* Navigation bar text */
 .navbar-default {
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
-  line-height: 1.25;
+  line-height: 2.25;
   text-rendering: optimizeLegibility;
 }
+.navbar-default .navbar-brand {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #2b2b2b;
+}
 
+nav#navbar-main li {
+  font-size: 16px;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+  height: inherit;
+  line-height: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 /* NAVBAR coloring */
 
 .navbar-default{
-    background-color:rgba(0, 0, 0, 0.8);
+    background-color:rgba(0, 0, 0, 0.9);
 }
 
 .navbar-default .navbar-brand {
@@ -200,7 +231,7 @@ footer a#back_to_top i {
 }
 
 .navbar-default .navbar-nav li a:hover{
-    background-color: #333333;
+    background-color: transparent;
 }
 
 /*************************************************

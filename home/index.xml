@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Harun Alp</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aharoun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,33 +21,6 @@
       <description> About I&#39;m a PhD candidate in Economics at the University of Pennsylvania. 
 My research interest lies in macroeconomics, with a particular interest in firm dynamics, economic growth and innovation. Before starting my PhD, I worked on topics related to monetary policy, macroeconomic forecasting and policy analysis.
   </description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://aharoun.github.io/home/research/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://aharoun.github.io/home/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://aharoun.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://aharoun.github.io/home/teaching/</guid>
-      <description> Instructor, Introduction to Microeconomics, Spring 2016 and 2018. T.A., Introduction to Microeconomics, Fall 2013 and 2014. T.A., Econometrics II (PhD), Spring 2014 and 2015. T.A., Law and Economics, Fall 2017. T.A., Foundations of Market Economies, Fall 2017.   </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://aharoun.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://aharoun.github.io/home/contact/</guid>
-      <description></description>
     </item>
     
   </channel>
