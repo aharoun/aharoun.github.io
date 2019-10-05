@@ -83,9 +83,9 @@ a:hover {
 }
 
 .pub-list-item {
-  margin-bottom: 40px;
-    margin-left: 15%;;
-  margin-right: 15%;;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pub-list-item .titlePaper {
@@ -95,6 +95,12 @@ a:hover {
 }
 
 .pub-list-item .pub-abstract {
+  font-size: 0.7rem;
+  text-align: justify;
+  color:black;
+}
+
+.pub-abstract-single {
   font-size: 0.7rem;
   text-align: justify;
   color:black;
@@ -114,28 +120,29 @@ a:hover {
 }
 
 .pub-list-item .pub-links {
-  padding-top: 10px;
+  padding-top: 0px;
   
 }
 
 #container-publications {
+  max-width: 760px;
+  margin: 0 auto 0 auto;
   display: block;
   position: relative;
   overflow: hidden;
 }
 
+
 .section-header{
-    margin-bottom: 10px;
-    margin-left: 15.5%;
-  margin-right: 15%;
+  max-width: 740px;
+  padding: 0rem 0px 0 0px;
+  margin: 0 auto 0 auto;
+  display: block;
+  position: relative;
+  overflow: hidden;
 
 }
 
-.subsection-header{
-    margin-left: 20%;
-  margin-right: 20%;
-
-}
 
 hr {
 width: 60%;
