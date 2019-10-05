@@ -176,19 +176,33 @@ footer a#back_to_top i {
     top: 15px;
   }
 }
+
+/*************************************************
+ *  Navigation Bar
+ **************************************************/
 /* Navigation bar size */
 .navbar {
   min-height: 40px !important;
   height: 60px !important;
 }
 
+.navbar-default {
+  background: #fff;
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.21)
+}
 /* navigation bar active color*/
-.navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
+  color: #0095fb;
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
+.navbar-default .navbar-nav>.active>a{
   color: white;
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
+
 }
 
 /* Navigation bar text */
@@ -202,36 +216,41 @@ footer a#back_to_top i {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.1em;
-  color: #2b2b2b;
+  color: white;
 }
 
 nav#navbar-main li {
   font-size: 16px;
+  background-color:rgba(10, 0, 0, .7);
+
 }
 
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
-  line-height: 50px;
+  line-height: 40px;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 /* NAVBAR coloring */
 
 .navbar-default{
-    background-color:rgba(0, 0, 0, 0.9);
+    background-color:rgba(10, 0, 0, 1.0);
 }
 
-.navbar-default .navbar-brand {
-  color: white;
-}
 
 .navbar-default .navbar-nav li a{
     color: white;
 }
 
 .navbar-default .navbar-nav li a:hover{
-    background-color: transparent;
+  color:#0095eb;
+  background-color: transparent !important; /* Override Bootstrap. */
+
+}
+.btn-primary,
+.btn-primary.btn-outline {
+    color: white;  
 }
 
 /*************************************************
