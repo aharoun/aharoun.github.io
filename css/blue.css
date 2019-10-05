@@ -136,3 +136,10 @@ a:hover {
   margin-right: 200px;
 
 }
+
+hr {
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+opacity: 0.5;
+}
