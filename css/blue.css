@@ -84,8 +84,8 @@ a:hover {
 
 .pub-list-item {
   margin-bottom: 40px;
-    margin-left: 200px;
-  margin-right: 200px;
+    margin-left: 15%;;
+  margin-right: 15%;;
 }
 
 .pub-list-item .titlePaper {
@@ -126,14 +126,14 @@ a:hover {
 
 .section-header{
     margin-bottom: 10px;
-    margin-left: 210px;
-  margin-right: 200px;
+    margin-left: 15.5%;
+  margin-right: 15%;
 
 }
 
 .subsection-header{
-    margin-left: 210px;
-  margin-right: 200px;
+    margin-left: 20%;
+  margin-right: 20%;
 
 }
 
