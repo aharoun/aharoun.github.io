@@ -70,7 +70,7 @@ That makes the main content white.
   margin-left: 0px;
   list-style: none;
   padding: 0px;
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 #flip-moved-social-icons .social-icon li {
@@ -86,6 +86,9 @@ That makes the main content white.
   transform: scale(1.2)
 }
 
+.big-icon {
+  font-size: 1.6rem;
+}
 /*#flip-moved-social-icons a{
   color: #AAAAAA;
 }
@@ -265,7 +268,7 @@ nav#navbar-main li {
   position: absolute;
   left: -3.14285714rem; /* Negative of `#contact.home-section .fa-ul` margin. */
   width: 2rem; /* Match `fa-2x` icon size. */
-  top: 0.16285714em; /* Default FA value. */
+  top: 3.16285714em; /* Default FA value. */
   text-align: center;
 }
 
