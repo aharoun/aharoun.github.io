@@ -280,3 +280,11 @@ nav#navbar-main li {
 #contact.home-section li:last-of-type {
   margin-bottom: 0;
 }
+
+.aboutme{
+        font-size:      .9rem;
+        }
+
+.contact{
+        font-size:      .8rem;
+        }        
