@@ -14,9 +14,10 @@ a:hover {
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: #343434;
-    background-color:#343434 ;
-    
+    border-color: black;
+    background-color:#f7f7f6 ;
+        color: #6b1932;
+        font-style: bold
 
 }
 
@@ -24,20 +25,14 @@ a:hover {
 
 .btn-primary.btn-outline:hover {
     border-color: black;
-    background-color: #eee9e9;
-    color: black;
+    background-color: #464646;
+    color: white;
+    font-style: bold
 
 
 
 }
 
-.btn-primary:hover,
-.btn-primary:focus,
-.btn-primary:active,
-.btn-primary.active,
-.btn-primary:visited,
-.btn-primary.btn-outline:active {
-    background-color: #343434;
 
 }
 
@@ -82,8 +77,8 @@ a:hover {
 }
 
 .pub-list-item .titlePaper {
-  font-size: 0.8rem;
-  color: #03636c;
+  font-size: 0.75rem;
+  color: #6b1932;
   
 }
 
