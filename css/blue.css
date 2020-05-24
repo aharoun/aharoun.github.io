@@ -28,13 +28,8 @@ a:hover {
     background-color: #464646;
     color: white;
     font-style: bold
-
-
-
 }
 
-
-}
 
 
 /*************************************************
@@ -84,6 +79,7 @@ a:hover {
 
 .pub-list-item .pub-abstract {
   font-size: 0.7rem;
+  font-style: italic;
   text-align: justify;
   color:black;
 }
@@ -112,7 +108,7 @@ a:hover {
   
 }
 
-#container-publications {
+.container-publications {
   max-width: 760px;
   margin: 0 auto 0 auto;
   display: block;
