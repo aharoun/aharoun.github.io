@@ -8,8 +8,8 @@
  html {
 font-family: 'Merriweather', sans-serif;
   font-size: 20px;
-  color: rgba(0,0,0,0.8);
-  line-height: 1.65;
+  color: rgba(0,0,0,1);
+  line-height: 1.6;
 }
 
 /* GRAY TEXT */
@@ -38,12 +38,12 @@ That makes the main content white.
 
 
 .btn{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Merriweather', sans-serif;
 }
 
 /* FOR HONORS LIST IN CV */
 .ul-honors{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Merriweather', sans-serif;
   color: #AAAAAA;
   list-style: none;
 }
@@ -110,7 +110,6 @@ That makes the main content white.
 }
 
 #watermark{
-	/*background-image:url('http://physics.ucr.edu/~flip/images/BG_Bundle2.jpg');*/
 	background-size: 700px 350px;
 	background-repeat:no-repeat;
 	background-position:left top;
@@ -214,12 +213,14 @@ footer a#back_to_top i {
   font-weight: 400;
   line-height: 2.25;
   text-rendering: optimizeLegibility;
+
 }
 .navbar-default .navbar-brand {
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: bold;
   font-size: 1.1em;
   color: white;
+  padding-left:60px;
 }
 
 nav#navbar-main li {
@@ -234,11 +235,13 @@ nav#navbar-main li {
   line-height: 40px;
   padding-top: 10px;
   padding-bottom: 0px;
+
 }
 /* NAVBAR coloring */
 
 .navbar-default{
     background-color:rgba(10, 0, 0, 1.0);
+
 }
 
 
@@ -282,7 +285,7 @@ nav#navbar-main li {
 }
 
 .aboutme{
-        font-size:      .9rem;
+        font-size:      .8rem;
         }
 
 .contact{

@@ -15,8 +15,8 @@ a:hover {
 .btn-primary,
 .btn-primary.btn-outline {
     border-color: black;
-    background-color:#f7f7f6 ;
-        color: #6b1932;
+    background-color:white ;
+        color: #03396c;
         font-style: bold
 
 }
@@ -25,7 +25,7 @@ a:hover {
 
 .btn-primary.btn-outline:hover {
     border-color: black;
-    background-color: #464646;
+    background-color: #17649A;
     color: white;
     font-style: bold
 }
@@ -73,7 +73,7 @@ a:hover {
 
 .pub-list-item .titlePaper {
   font-size: 0.75rem;
-  color: #6b1932;
+  color: #03396c;
   
 }
 
