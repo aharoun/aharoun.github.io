@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Harun Alp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Harun Alp</copyright>
+    <copyright>&amp;copy; 2020 Harun Alp</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://aharoun.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,10 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://aharoun.github.io/home/aboutme/</guid>
-      <description>About
-I am a PhD candidate in Economics at the University of Pennsylvania.
-I am on the job market and will be available for interviews at the ASSA Annual Meeting in San Diego in January 2020 and at the European Job Market in Rotterdam in December 2019.
-My research interest lies in macroeconomics, with a particular interest in firm dynamics, economic growth and innovation. Before starting my PhD, I worked on topics related to monetary policy, macroeconomic forecasting and policy analysis.</description>
+      <description> .my_text { font-size: 15px; }   Harun Alp
+ Economist | Federal Reserve Board
+I am an Economist at the Federal Reserve Board. My research interest lies in macroeconomics, with a particular interest in firm dynamics, economic growth and innovation.  </description>
     </item>
     
   </channel>
