@@ -72,14 +72,16 @@ a:hover {
 }
 
 .pub-list-item .titlePaper {
-  font-size: 0.75rem;
+  font-size: .75rem;
   color: #03396c;
+    font-weight: normal;
+
   
 }
 
 .pub-list-item .pub-abstract {
   font-size: 0.7rem;
-  font-style: italic;
+  font-style: normal;
   text-align: justify;
   color:black;
 }
@@ -99,7 +101,9 @@ a:hover {
 
 .pub-list-item .pub-publication {
   color: black;
-  font-style: italic;
+  font-style: normal;
+    font-weight: bold;
+
   font-size: 0.7rem;
 }
 
@@ -109,7 +113,7 @@ a:hover {
 }
 
 .container-publications {
-  max-width: 760px;
+  max-width: 960px;
   margin: 0 auto 0 auto;
   display: block;
   position: relative;
@@ -118,7 +122,7 @@ a:hover {
 
 
 .section-header{
-  max-width: 740px;
+  max-width: 960px;
   padding: 0rem 0px 0 0px;
   margin: 0 auto 0 auto;
   display: block;

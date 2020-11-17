@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://aharoun.github.io/home/aboutme/</guid>
-      <description> .my_text { font-size: 15px; }   Harun Alp
+      <description> .my_text { font-size: .8rem; }   Harun Alp
  Economist | Federal Reserve Board
 I am an Economist at the Federal Reserve Board. My research interest lies in macroeconomics, with a particular interest in firm dynamics, economic growth and innovation.  </description>
     </item>

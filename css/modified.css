@@ -6,15 +6,15 @@
  }
 
  html {
-font-family: 'Merriweather', sans-serif;
-  font-size: 20px;
+font-family: 'Lucida Bright', sans-serif;
+  font-size: 22px;
   color: rgba(0,0,0,1);
   line-height: 1.6;
 }
 
 /* GRAY TEXT */
 .comment{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lucida Bright', sans-serif;
   color: #AAAAAA;
 }
 
@@ -38,12 +38,12 @@ That makes the main content white.
 
 
 .btn{
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Lucida Bright', sans-serif;
 }
 
 /* FOR HONORS LIST IN CV */
 .ul-honors{
-  font-family: 'Merriweather', sans-serif;
+  font-family: 'Lucida Bright', sans-serif;
   color: #AAAAAA;
   list-style: none;
 }
