@@ -55,7 +55,6 @@ That makes the main content white.
   width: 175px;
   height: 175px;
   margin: 0 auto;
-  margin-left: 150px;
   margin-top: 7px;
   border-radius: 50%;
   background-size: cover;
@@ -69,7 +68,6 @@ That makes the main content white.
 #flip-moved-social-icons ul.social-icon {
   display: inline-flex;
   flex-direction: row;
-  margin-left: 180px;
   list-style: none;
   padding: 0px;
   margin-top: 10px;
@@ -195,6 +193,11 @@ footer a#back_to_top i {
   background: #fff;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.21)
 }
+
+  .navbar-right {
+    float: none !important;
+    padding-left: 460px;
+  }
 /* navigation bar active color*/
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
@@ -222,8 +225,7 @@ footer a#back_to_top i {
   text-transform: capitalize;
   font-weight: bold;
   font-size: 1.1em;
-  color: white;
-  padding-left:185px;
+  color: black;
 }
 
 nav#navbar-main li {
@@ -261,6 +263,11 @@ nav#navbar-main li {
 .btn-primary.btn-outline {
     color: white;  
 }
+
+  .navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+  }
 
 /*************************************************
  *  Contact
