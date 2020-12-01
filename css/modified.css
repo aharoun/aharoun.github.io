@@ -194,9 +194,9 @@ footer a#back_to_top i {
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.21)
 }
 
-  .navbar-right {
+  .navbar-left .navbar-right {
     float: none !important;
-    padding-left: 460px;
+/*    padding-left: 460px; */
   }
 /* navigation bar active color*/
 .navbar-default .navbar-nav>.active>a:focus,
