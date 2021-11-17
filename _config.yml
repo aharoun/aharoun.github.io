@@ -1,0 +1,42 @@
+# seo tags
+title:        Harun Alp | Economist
+description:  Harun Alp is a PhD economist at Federal Reserve Board of Governors.
+
+# personal info
+firstname:    Harun
+lastname:     Alp
+organization: Federal Reserve Board of Governors
+#department:  
+address:      20th St & C St NW, Washington, DC 20551
+#office:       
+phone:        202 452 2740
+photo:        assets/photo/c6e22a05-4028-467d-8b0c-22aee66a9e87 2.jpg
+
+
+# navigation
+# navtext:      Federal Reserve Board
+# navlink:      https://www.federalreserve.gov/econres/harun-alp.htm
+
+# navtext:      research
+# navlink:      research.md
+
+# cv pdf
+cv:           assets/cv.pdf
+
+# footer buttons
+email:        harun.alp@frb.gov
+scholar:      https://scholar.google.com/citations?user=mPSYF60AAAAJ&hl=en
+#orcid:        https://orcid.org/0000-0000-0000-0000
+ideas-repec:  https://ideas.repec.org/f/pal364.html
+github:       aharoun
+
+# tracking id
+analytics:    UA-117593317-1
+
+# repository
+#repo:         https://github.com/aharoun/aharoun.github.io
+
+# ruby gems
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

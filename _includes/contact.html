@@ -1,0 +1,54 @@
+<div class="columns">
+  <div class="columnb">
+    I am an Economist at the Federal Reserve Board. My research interest lies in macroeconomics, with a particular interest in firm dynamics, economic growth and innovation.
+    <a href="{{ site.cv }}" title="Download CV" id="icon"><i class="fas fa-download"></i>&nbsp;<i class="ai ai-cv"></i></a>
+    <!-- <ul class="fa-ul">
+      <li><span class="fa-li"><i class="fas fa-map-marker-alt"></i></span>
+        {{ site.organization }}<br />
+        {% if site.department %}
+        {{ site.department }}<br />
+        {% endif %}
+        {{ site.address }}
+      </li>
+      {% if site.office %}
+      <li><span class="fa-li"><i class="fas fa-door-open"></i></span>
+        {{ site.office }}
+      </li>
+      {% endif %}
+      {% if site.phone %}
+      <li><span class="fa-li"><i class="fas fa-phone-alt"></i></span>
+        {{ site.phone }}
+      </li>
+      {% endif %}
+      <li><span class="fa-li"><i class="fas fa-envelope"></i></span>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </li>
+      <li><span class="fa-li"><i class="fas fa-globe"></i></span>
+        <a href="{{ site.url }}">{{ site.url | replace: "http://", "https://" }}</a>
+      </li>
+    </ul> -->
+    <br><br>
+    <div style="font-size: 1.6rem;">
+      <a href="mailto:{{ site.email }}" class="fas fa-lg fa-envelope" title="Email" id="icon"></a>
+      {% if site.scholar %}
+      <a href="{{ site.scholar }}" class="ai ai-lg ai-google-scholar" title="Google Scholar" id="icon"></a>
+      {% endif %}
+      {% if site.ideas-repec %}
+      <a href="{{ site.ideas-repec}}" class="ai ai-lg ai-ideas-repec" title="ideas-repec" id="icon"></a>
+      {% endif %}
+      {% if site.lichess %}
+      <a href="https://lichess.org/@/{{ site.lichess }}" class="nai nai-lg nai-lichess" title="Lichess" id="icon"></a>
+      {% endif %}
+      {% if site.github %}
+      <a href="https://github.com/{{ site.github }}" class="fab fa-lg fa-github" title="GitHub" id="icon"></a>
+      {% endif %}
+    </div>
+  </div>
+  <div class="right column">
+    {% if site.photo %}
+    <img class="avatar" src="{{ site.photo }}" />
+    {% else %}
+    <img class="avatar" src="https://github.com/{{ site.github }}.png" />
+    {% endif %}
+  </div>
+</div>
