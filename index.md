@@ -1,10 +1,11 @@
 ---
 layout: home
-title: Economist
+title: Harun Alp
 ---
 
 
 ## Publications
+----------------
 
 {% assign doi="ai ai-doi" %}
 {% assign data="ai ai-open-data" %}
@@ -24,6 +25,7 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 [<a href="https://github.com/aharoun/AAABK2018" target="_blank">Code</a>]
 
 ## Working Papers
+----------------
 
 <a href="assets/papers/jmpAlp-latest.pdf">**Incorporation, Selection and Firm Dynamics: A Quantitative Exploration** (2020)</a>
 
@@ -31,6 +33,8 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 with Ufuk Akcigit, Maya Eden and Ha Nguyen
 
 ## Work in Progress
+----------------
+
 
 **Navigating Stormy Waters: Crises, Selection and Productivity Dynamics Under Financial Frictions**<br>
 with Ufuk Akcigit and Ege Y. Ercan
@@ -43,6 +47,7 @@ with Ufuk Akcigit, Jeremy Pearce and Marta Prato
 
 
 ## Old Papers
+----------------
 
 <a href="https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262018340.001.0001/upso-9780262018340-chapter-3"> **The Role of Monetary Policy in Turkey During the Global Financial Crisis** (2013)</a><br>
 with Selim Elekdag <br>
@@ -81,4 +86,7 @@ _Iktisat Isletme ve Finans, 2010, 25 (295)_
 <a href="https://www.tcmb.gov.tr/wps/wcm/connect/24f3d2a2-2e0f-4eea-8f11-056f90ac2142/WP0811.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-24f3d2a2-2e0f-4eea-8f11-056f90ac2142-m3fw5Pc"> **Transmission of Monetary Policy in Turkey: The Effects of Monetary Policy on Financial Markets**</a><br>
 with Zelal Aktas, Refet Gurkaynak, Mehtap Kesriyeli, Musa Orak <br>
 _Iktisat Isletme ve Finans, 2009, 24 (278)_
+<br>
+<br>
 
+*The views expressed here are my own, and do not represent the views of the Board of Governors of the Federal Reserve, nor any other person associated with the Federal Reserve System.*
