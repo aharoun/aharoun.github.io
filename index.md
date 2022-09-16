@@ -38,8 +38,6 @@ with Ufuk Akcigit, Maya Eden and Ha Nguyen
 
 **Navigating Stormy Waters: Crises, Selection and Productivity Dynamics Under Financial Frictions**<br>
 with Ufuk Akcigit and Ege Y. Ercan<br>
-<a href="assets/papers/AAE_slides.pdf">Slides</a>
-
 
 **Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity** <br>
 with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero
