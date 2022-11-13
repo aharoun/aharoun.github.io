@@ -46,6 +46,8 @@ with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero
 
 **Career Choice of Entrepreneurs, Inventors and the Rise of ”Smart” Firms** <br>
 with Ufuk Akcigit, Jeremy Pearce and Marta Prato
+<a href="assets/papers/AAPP_MMM2022.pdf">Slides</a>
+
 
 
 ## Old Papers
