@@ -7,9 +7,9 @@ title: Harun Alp
 ## Publications
 ----------------
 
-{% assign doi="ai ai-doi" %}
-{% assign data="ai ai-open-data" %}
-{% assign pdf="fas fa-file-pdf" %}
+    {% assign doi="ai ai-doi" %}
+    {% assign data="ai ai-open-data" %}
+    {% assign pdf="fas fa-file-pdf" %}
 
 <a href="assets/papers/aer.20180555.pdf">**Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries**</a><br>
 with Ufuk Akcigit and Michael Peters <br>
@@ -38,18 +38,17 @@ with Ufuk Akcigit, Maya Eden and Ha Nguyen
 
 **Navigating Stormy Waters: Crises, Selection and Productivity Dynamics Under Financial Frictions**<br>
 with Ufuk Akcigit and Ege Y. Ercan<br>
-<a href="assets/papers/AAE_warsaw.pdf">Slides</a>
-
+<!-- <a href="assets/papers/AAE_warsaw.pdf">Slides</a> -->
 
 **Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity** <br>
 with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero
 
+**Committing to Grow: Size-Dependent Regulations and Firm Dynamics in East Germany** <br>
+with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
+
 **Career Choice of Entrepreneurs, Inventors and the Rise of ”Smart” Firms** <br>
 with Ufuk Akcigit, Jeremy Pearce and Marta Prato <br>
-<a href="assets/papers/AAPP_MMM2022.pdf">Slides</a>
-
-
-
+<!-- <a href="assets/papers/AAPP_MMM2022.pdf">Slides</a> -->
 ## Old Papers
 ----------------
 
