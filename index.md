@@ -26,7 +26,7 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 
 ## Working Papers
 ----------------
-<a href="assets/papers/CommitmentsGDR.pdf">**Committing to Grow: Size-Dependent Regulations and Firm Dynamics in East Germany**</a><br>
+<a href="assets/papers/CommitmentsGDR.pdf">**Committing to Grow: Privatizations and Firm Dynamics in East Germany**</a><br>
 with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
 
 <a href="assets/papers/jmpAlp-latest.pdf">**Incorporation, Selection and Firm Dynamics: A Quantitative Exploration** </a>
