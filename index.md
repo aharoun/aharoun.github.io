@@ -26,10 +26,12 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 
 ## Working Papers
 ----------------
+<a href="assets/papers/CommitmentsGDR.pdf"**Committing to Grow: Size-Dependent Regulations and Firm Dynamics in East Germany** <br>
+with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
 
-<a href="assets/papers/jmpAlp-latest.pdf">**Incorporation, Selection and Firm Dynamics: A Quantitative Exploration** (2020)</a>
+<a href="assets/papers/jmpAlp-latest.pdf">**Incorporation, Selection and Firm Dynamics: A Quantitative Exploration** </a>
 
-<a href=" ">**Technology Adoption and the Latin American TFP Gap** (2018)</a><br>
+<a href=" ">**Technology Adoption and the Latin American TFP Gap** </a><br>
 with Ufuk Akcigit, Maya Eden and Ha Nguyen
 
 ## Work in Progress
@@ -43,8 +45,7 @@ with Ufuk Akcigit and Ege Y. Ercan<br>
 **Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity** <br>
 with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero
 
-**Committing to Grow: Size-Dependent Regulations and Firm Dynamics in East Germany** <br>
-with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
+
 
 **Career Choice of Entrepreneurs, Inventors and the Rise of ”Smart” Firms** <br>
 with Ufuk Akcigit, Jeremy Pearce and Marta Prato <br>
