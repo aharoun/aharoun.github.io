@@ -26,6 +26,9 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 
 ## Working Papers
 ----------------
+<a href="assets/papers/AAPP_May2025.pdf">**Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth**</a><br>
+with Ufuk Akcigit, Jeremy Pearce and Marta Prato
+
 <a href="assets/papers/CommitmentsGDR.pdf">**Committing to Grow: Privatizations and Firm Dynamics in East Germany**</a><br>
 with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
 
@@ -46,10 +49,6 @@ with Ufuk Akcigit and Ege Y. Ercan<br>
 with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero
 
 
-
-**Career Choice of Entrepreneurs, Inventors and the Rise of ”Smart” Firms** <br>
-with Ufuk Akcigit, Jeremy Pearce and Marta Prato <br>
-<!-- <a href="assets/papers/AAPP_MMM2022.pdf">Slides</a> -->
 ## Old Papers
 ----------------
 
