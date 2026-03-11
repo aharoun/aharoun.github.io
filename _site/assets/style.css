@@ -17,7 +17,7 @@ body {
 
 .wrapper {
   margin: auto;
-  max-width: 51em;
+  max-width: 38em;
 }
 
 .columns {
@@ -88,9 +88,7 @@ a:hover, a:active {
 
 /* header */
 header {
-  border-bottom: .1em solid #27221f;
-  border-top: .2em solid #27221f;
-  padding: .5em;
+  display: none;
 }
 
 #titlebar {
