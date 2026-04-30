@@ -29,7 +29,7 @@ _**American Economic Review 2018, 108(11): 3450-91**_<br>
 <a href="assets/papers/AAPP_May2025.pdf">**Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth**</a><br>
 with Ufuk Akcigit, Jeremy Pearce and Marta Prato
 
-<a href="assets/papers/CommitmentsGDR.pdf">**Committing to Grow: Privatizations and Firm Dynamics in East Germany**</a><br>
+<a href="assets/papers/CommitmentsGDR_revised.pdf">**Committing to Grow: Employment Targets and Firm Dynamics**</a><br>
 with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde
 
 <a href="assets/papers/jmpAlp-latest.pdf">**Incorporation, Selection and Firm Dynamics: A Quantitative Exploration** </a>
