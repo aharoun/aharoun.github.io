@@ -1,8 +1,9 @@
-I"4<h2 id="publications">Publications</h2>
+I""4<h2 id="publications">Publications</h2>
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries</a>
-  <div class="pmeta">with Ufuk Akcigit and Michael Peters · <span class="venue">American Economic Review</span>, 2021, 111(1): 231–275 · <a href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">pdf</a> / <a href="assets/papers/aap2021_online_appendix.pdf" target="_blank" rel="noopener">appendix</a> / <a href="https://www.nber.org/papers/w21905" target="_blank" rel="noopener">nber wp</a> / <a href="https://github.com/aharoun/AAP2020" target="_blank" rel="noopener">code</a></div>
+  <div class="pmeta">with Ufuk Akcigit and Michael Peters</div>
+  <div class="pmeta"><span class="venue">American Economic Review</span>, 2021, 111(1): 231–275 · <a href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">PDF</a> / <a href="assets/papers/aap2021_online_appendix.pdf" target="_blank" rel="noopener">Appendix</a> / <a href="https://www.nber.org/papers/w21905" target="_blank" rel="noopener">NBER WP</a> / <a href="https://github.com/aharoun/AAP2020" target="_blank" rel="noopener">Code</a></div>
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">Delegating managerial tasks is essential for firm growth. Most firms in developing countries, however, do not hire outside managers but instead rely on family members. In this paper, we ask if this lack of managerial delegation can explain why firms in poor countries are small and whether it has important aggregate consequences. We construct a model of firm growth where entrepreneurs have a fixed time endowment to run their daily operations. As firms grow large, the need to hire outside managers increases. Firms’ willingness to expand therefore depends on the ease with which delegation can take place. We calibrate the model to plant-level data from the United States and India. We identify the key parameters of our theory by targeting the experimental evidence on the effect of managerial practices on firm performance from Bloom et al. (2013). We find that inefficiencies in the delegation environment account for 11 percent of the income per capita difference between the United States and India. They also contribute to the small size of Indian producers, but would cause substantially more harm for US firms. The reason is that US firms are larger on average and managerial delegation is especially valuable for large firms, thus making delegation efficiency and other factors affecting firm growth complements.</div>
@@ -11,7 +12,8 @@
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/aer.20130470.pdf" target="_blank" rel="noopener">Innovation, Reallocation and Growth</a>
-  <div class="pmeta">with Daron Acemoglu, Ufuk Akcigit, Nicholas Bloom and William R. Kerr · <span class="venue">American Economic Review</span>, 2018, 108(11): 3450–91 · <a href="assets/papers/aer.20130470.pdf" target="_blank" rel="noopener">pdf</a> / <a href="assets/papers/AAABK_OnlineAppendix.pdf" target="_blank" rel="noopener">appendix</a> / <a href="https://github.com/aharoun/AAABK2018" target="_blank" rel="noopener">code</a></div>
+  <div class="pmeta">with Daron Acemoglu, Ufuk Akcigit, Nicholas Bloom and William R. Kerr</div>
+  <div class="pmeta"><span class="venue">American Economic Review</span>, 2018, 108(11): 3450–91 · <a href="assets/papers/aer.20130470.pdf" target="_blank" rel="noopener">PDF</a> / <a href="assets/papers/AAABK_OnlineAppendix.pdf" target="_blank" rel="noopener">Appendix</a> / <a href="https://github.com/aharoun/AAABK2018" target="_blank" rel="noopener">Code</a></div>
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">We build a model of firm-level innovation, productivity growth, and reallocation featuring endogenous entry and exit. A new and central economic force is the selection between high- and low-type firms, which differ in terms of their innovative capacity. We estimate the parameters of the model using US Census microdata on firm-level output, R&amp;D, and patenting. The model provides a good fit to the dynamics of firm entry and exit, output, and R&amp;D. Taxing the continued operation of incumbents can lead to sizable gains (of the order of 1.4 percent improvement in welfare) by encouraging exit of less productive firms and freeing up skilled labor to be used for R&amp;D by high-type incumbents. Subsidies to the R&amp;D of incumbents do not achieve this objective because they encourage the survival and expansion of low-type firms.</div>
@@ -22,7 +24,7 @@
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth</a>
-  <div class="pmeta">with Ufuk Akcigit, Jeremy Pearce and Marta Prato · 2025 · <a href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">pdf</a></div>
+  <div class="pmeta">with Ufuk Akcigit, Jeremy Pearce and Marta Prato · 2025 · <a href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">PDF</a></div>
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">This paper explores the symbiotic relationship between transformative entrepreneurs and inventors, which is crucial for economic growth. We utilize microdata from Denmark to demonstrate that while the relationship between IQ and general entrepreneurship tends to be negative, it is strongly positive among transformative entrepreneurs. Transformative entrepreneurs, often with higher IQ and education levels, significantly drive R&amp;D and business growth, thereby providing substantial opportunities for inventors. In contrast, average entrepreneurs are more influenced by their family’s entrepreneurship background. Our economic model links these dynamics to overall economic progress, highlighting how higher education influences career paths in entrepreneurship and invention. We identify talent misallocation caused by unequal education access, particularly affecting lower-income families. Our findings indicate the most effective policies strengthen the interplay between higher education, innovation, and entrepreneurship to foster transformative businesses and achieve long-run economic growth.</div>
@@ -31,7 +33,7 @@
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/CommitmentsGDR_revised.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
-  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde · 2026 · <a href="assets/papers/CommitmentsGDR_revised.pdf" target="_blank" rel="noopener">pdf</a></div>
+  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde · 2026 · <a href="assets/papers/CommitmentsGDR_revised.pdf" target="_blank" rel="noopener">PDF</a></div>
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">We study the firm-level and aggregate effects of government-imposed employment targets. We develop a dynamic general equilibrium model with heterogeneous firms and endogenous productivity growth in which penalties for below-target hiring generate a polarization mechanism: low-productivity firms exit, while others expand employment beyond efficient levels, and firms invest in productivity to avoid future penalties. We test and confirm the model’s firm level predictions using unique contractual data on more than 18,000 employment commitments from the East German privatization, exploiting quasi-random variation in the assignment of privatizers to firms. Quantitatively, employment targets reduce unemployment in the short run, but these gains reverse over time as distorted labor allocations and weakened investment incentives slow aggregate productivity growth and reduce welfare. We also evaluate how alternative designs for employment-protection (e.g., the choice between mandates and subsidies, the structure of targets) impact misallocation and the resulting short- and long-run outcomes.</div>
@@ -40,7 +42,7 @@
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/jmpAlp-latest.pdf" target="_blank" rel="noopener">Incorporation, Selection and Firm Dynamics: A Quantitative Exploration</a>
-  <div class="pmeta"><a href="assets/papers/jmpAlp-latest.pdf" target="_blank" rel="noopener">pdf</a></div>
+  <div class="pmeta"><a href="assets/papers/jmpAlp-latest.pdf" target="_blank" rel="noopener">PDF</a></div>
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">This paper studies how incorporation, which provides limited liability to firm owners, affects firm dynamics and macroeconomy. I propose an endogenous growth model of firm dynamics with endogenous entry and exit, where firms spend resources to improve their productivity and choose whether to incorporate or not. Incorporation provides liability protection which ensures that firm value is bounded from below, at the expense of high set-up and maintaining cost. An important model feature is that firms have heterogeneous (high and low) types which differ in their capacity to improve productivity. This heterogeneity allows for the possibility of selection as high-type firms, who have higher growth potential, benefit more from incorporation. I calibrate the model by using Danish firm-level data, specifically exploiting the heterogeneity in exit rates by age conditional on size to identify firm types in growth potential and therefore selection. The quantitative results suggest that both treatment and selection effects of incorporation are important and accounting for firm heterogeneity is quantitatively relevant in explaining the observed better performance of incorporated firms.</div>
@@ -65,11 +67,11 @@
   <div class="pmeta">with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero</div>
 </div>
 
-<h2 id="earlier-policy-work">Earlier Policy Work</h2>
+<h2 id="old-papers">Old Papers</h2>
 
 <div class="paper">
   <a class="ptitle" href="https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262018340.001.0001/upso-9780262018340-chapter-3" target="_blank" rel="noopener">The Role of Monetary Policy in Turkey During the Global Financial Crisis</a>
-  <div class="pmeta">with Selim Elekdag · <span class="venue">The Great Recession: Lessons for Central Bankers</span>, MIT Press, 2013 · <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/The-Role-of-Monetary-Policy-in-Turkey-During-the-Global-Financial-Crisis-25005" target="_blank" rel="noopener">imf wp</a></div>
+  <div class="pmeta">with Selim Elekdag · <span class="venue">The Great Recession: Lessons for Central Bankers</span>, MIT Press, 2013 · <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/The-Role-of-Monetary-Policy-in-Turkey-During-the-Global-Financial-Crisis-25005" target="_blank" rel="noopener">IMF WP</a></div>
 </div>
 
 <div class="paper">

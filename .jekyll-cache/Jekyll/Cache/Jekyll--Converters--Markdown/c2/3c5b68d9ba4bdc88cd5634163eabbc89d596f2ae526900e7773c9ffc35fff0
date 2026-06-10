@@ -1,9 +1,4 @@
----
-layout: home
-title: Harun Alp
----
-
-## Publications
+I",4<h2 id="publications">Publications</h2>
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries</a>
@@ -25,7 +20,7 @@ title: Harun Alp
   </details>
 </div>
 
-## Working Papers
+<h2 id="working-papers">Working Papers</h2>
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth</a>
@@ -60,7 +55,7 @@ title: Harun Alp
   <div class="note">draft available soon</div>
 </div>
 
-## Work in Progress
+<h2 id="work-in-progress">Work in Progress</h2>
 
 <div class="paper">
   <span class="ptitle">Navigating Stormy Waters: Crises, Selection and Productivity Dynamics Under Financial Frictions</span>
@@ -72,7 +67,7 @@ title: Harun Alp
   <div class="pmeta">with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero</div>
 </div>
 
-## Old Papers
+<h2 id="old-papers">Old Papers</h2>
 
 <div class="paper">
   <a class="ptitle" href="https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262018340.001.0001/upso-9780262018340-chapter-3" target="_blank" rel="noopener">The Role of Monetary Policy in Turkey During the Global Financial Crisis</a>
@@ -118,3 +113,4 @@ title: Harun Alp
   <a class="ptitle" href="https://www.tcmb.gov.tr/wps/wcm/connect/24f3d2a2-2e0f-4eea-8f11-056f90ac2142/WP0811.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-24f3d2a2-2e0f-4eea-8f11-056f90ac2142-m3fw5Pc" target="_blank" rel="noopener">Transmission of Monetary Policy in Turkey: The Effects of Monetary Policy on Financial Markets</a>
   <div class="pmeta">with Zelal Aktas, Refet Gurkaynak, Mehtap Kesriyeli and Musa Orak · <span class="venue">İktisat İşletme ve Finans</span>, 2009, 24(278)</div>
 </div>
+:ET
