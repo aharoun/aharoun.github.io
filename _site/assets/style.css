@@ -94,7 +94,7 @@ html[data-theme="dark"] #theme-toggle .sun { display: inline; }
   display: flex;
   align-items: center;
   gap: 2rem;
-  margin-bottom: 2.2rem;
+  margin-bottom: 1.9rem;
 }
 
 .hero-text { flex: 1; }
@@ -157,9 +157,9 @@ main h2 {
   display: flex;
   align-items: center;
   gap: .9rem;
-  margin: 2.4rem 0 .9rem;
+  margin: 2.05rem 0 .75rem;
   font-family: "Inter", sans-serif;
-  font-size: .74rem;
+  font-size: .8rem;
   font-weight: 500;
   letter-spacing: .16em;
   text-transform: uppercase;
@@ -168,7 +168,7 @@ main h2 {
 main h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 
 /* ----- paper entries ----- */
-.paper { margin: 1.25rem 0; }
+.paper { margin: 1.05rem 0; }
 
 .ptitle {
   font-size: 1rem;
@@ -181,8 +181,9 @@ a.ptitle:hover { color: var(--accent); text-decoration: none; }
 .pmeta {
   font-family: "Inter", sans-serif;
   font-size: .84rem;
+  line-height: 1.45;
   color: var(--meta);
-  margin-top: .22rem;
+  margin-top: .1rem;
 }
 .pmeta .venue { font-style: italic; }
 .pmeta a { color: var(--accent); }
@@ -196,7 +197,7 @@ a.ptitle:hover { color: var(--accent); text-decoration: none; }
 }
 
 /* ----- abstract dropdowns ----- */
-details.abs { margin-top: .35rem; }
+details.abs { margin-top: .2rem; }
 
 details.abs summary {
   list-style: none;
