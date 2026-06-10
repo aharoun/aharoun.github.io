@@ -1,7 +1,18 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-{% include contact.html %}
+{% include head.html %}
 
-{{ content }}
+<body>
+  <button id="theme-toggle" title="Switch between light and dark mode"
+    onclick="var h=document.documentElement,t=h.getAttribute('data-theme')==='dark'?'light':'dark';h.setAttribute('data-theme',t);localStorage.setItem('theme',t);">
+    <i class="fas fa-moon moon"></i><i class="fas fa-sun sun"></i>
+  </button>
+  <main class="wrapper">
+    {% include contact.html %}
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+
+</html>

@@ -3,94 +3,65 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <script>
+    (function () {
+      var t = localStorage.getItem("theme");
+      if (!t) {
+        t = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      document.documentElement.setAttribute("data-theme", t);
+    })();
+  </script>
 
   <script src="https://kit.fontawesome.com/4fb5cb0243.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@v1.9.1/css/academicons.min.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/piazzai/nonacademicons@v1.0.0/css/nonacademicons.min.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@400;500&family=Alegreya+Sans:wght@900&family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500&display=swap" />
   <link rel="stylesheet" href="/assets/style.css" />
 
   
-  <title>Harun Alp | Economist - 404</title>
+  <title>Harun Alp - 404</title>
   
-
-  
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117593317-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-
-  gtag('config', 'UA-117593317-1');
-</script>
 
   
 
   <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>404 | Harun Alp Economist</title>
 <meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="404" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Harun Alp is a PhD economist at Federal Reserve Board of Governors." />
 <meta property="og:description" content="Harun Alp is a PhD economist at Federal Reserve Board of Governors." />
-<meta property="og:site_name" content="Harun Alp Economist" />
+<meta property="og:site_name" content="Harun Alp" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="404" />
 <script type="application/ld+json">
-{"headline":"404","url":"/404.html","@type":"WebPage","description":"Harun Alp is a PhD economist at Federal Reserve Board of Governors.","@context":"https://schema.org"}</script>
+{"url":"/404.html","@type":"WebPage","headline":"404","description":"Harun Alp is a PhD economist at Federal Reserve Board of Governors.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
 
 
 <body>
-  <header>
-  <div class="wrapper">
-    <div class="columns">
-      <div class="left column">
-        <a href="" id="titlebar">Harun<span style="display: none;"> </span><b>Alp</b></a>
-      </div>
-      
-    </div>
-  </div>
-</header>
-
-  <div class="wrapper">
-    <h1>404</h1>
+  <main class="wrapper">
+    <h1 class="name">404</h1>
     <p>The page you are looking for has moved or does not exist.<br />
 Go back to the <a href="">homepage</a>.</p>
 
-  </div>
+  </main>
   <footer>
   <div class="wrapper">
-    <div class="columns">
-      <div class="left column footnote">
-        &copy; <script>document.write(new Date().getFullYear())</script> Harun Alp<br />
-        <!-- <a href="https://jekyllrb.com/">Engine</a> · <a href="https://github.com/piazzai/cvless">Theme</a> · <a href="">Source</a><br /><br /> -->
+    <p class="disclaimer">The views expressed here are my own, and do not represent the views of the Board of Governors of the Federal Reserve, nor any other person associated with the Federal Reserve System.</p>
+    <div class="foot-row">
+      <span class="copy">&copy; 2026 Harun Alp &middot; updated June 2026</span>
+      <div class="icons">
+        <a href="mailto:harun.alp@frb.gov" title="Email"><i class="fas fa-envelope"></i></a>
         
-        <a href="assets/cv.pdf" title="Download CV" id="icon"><i class="fas fa-download"></i>&nbsp;<i class="ai ai-cv"></i></a>
-        
-      </div>
-      <div class="left column footnote">
-        Federal Reserve Board of Governors<br />
-        
-        20th St & C St NW, Washington, DC 20551
-      </div>
-      <div class="right column">
-        <a href="mailto:harun.alp@frb.gov" class="fas fa-2x fa-envelope-square" title="Email" id="icon"></a>
-        
-        <a href="https://scholar.google.com/citations?user=mPSYF60AAAAJ&hl=en" class="ai ai-2x ai-google-scholar-square" title="Google Scholar" id="icon"></a>
+        <a href="https://scholar.google.com/citations?user=mPSYF60AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
         
         
-        <a href="https://ideas.repec.org/f/pal364.html" class="ai ai-2x ai-ideas-repec-square" title="ideas-repec" id="icon"></a>
-        
-        
-        
-        <a href="https://github.com/aharoun" class="fab fa-2x fa-github-square" title="GitHub" id="icon"></a>
+        <a href="https://github.com/aharoun" title="GitHub"><i class="fab fa-github"></i></a>
         
       </div>
     </div>
