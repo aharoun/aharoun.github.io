@@ -40,3 +40,21 @@ github:       aharoun
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# Files kept in the repo for development but NOT published to the live site.
+# (Without this, Jekyll copies them into _site/ and GitHub Pages serves them,
+#  e.g. harunalp.net/HOW_TO_PUBLISH.md got crawled and indexed by Google.)
+# NOTE: defining `exclude` overrides Jekyll's defaults, so Gemfile/vendor/etc.
+#       must be re-listed here or they'd start being published.
+exclude:
+  - HOW_TO_PUBLISH.md
+  - README.md
+  - LICENSE
+  - bundle
+  - .Rhistory
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .jekyll-cache
+  - .sass-cache
