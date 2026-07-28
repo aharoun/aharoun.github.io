@@ -196,10 +196,11 @@ a.ptitle:hover { color: var(--accent); text-decoration: none; }
   margin-top: .2rem;
 }
 
-/* ----- abstract dropdowns ----- */
+/* ----- dropdowns (abstracts, old papers) ----- */
 details.abs { margin-top: .2rem; }
 
-details.abs summary {
+details.abs summary,
+details.oldlist summary {
   list-style: none;
   cursor: pointer;
   display: inline-flex;
@@ -208,14 +209,22 @@ details.abs summary {
   font-family: "Inter", sans-serif;
   font-size: .78rem;
   letter-spacing: .03em;
-  text-transform: capitalize;
   color: var(--accent);
   opacity: .85;
 }
-details.abs summary::-webkit-details-marker { display: none; }
-details.abs summary::before { content: "+"; font-size: .9rem; }
-details.abs[open] summary::before { content: "\2212"; }
-details.abs summary:hover { opacity: 1; }
+details.abs summary { text-transform: capitalize; }
+details.abs summary::-webkit-details-marker,
+details.oldlist summary::-webkit-details-marker { display: none; }
+details.abs summary::before,
+details.oldlist summary::before { content: "+"; font-size: .9rem; }
+details.abs[open] summary::before,
+details.oldlist[open] summary::before { content: "\2212"; }
+details.abs summary:hover,
+details.oldlist summary:hover { opacity: 1; }
+
+/* collapsed list of old papers */
+details.oldlist { margin: .9rem 0 1.05rem; }
+details.oldlist > .paper:first-of-type { margin-top: .8rem; }
 
 .abstract {
   font-size: .92rem;

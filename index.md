@@ -74,6 +74,9 @@ title: Harun Alp
 
 ## Old Papers
 
+<details class="oldlist">
+<summary>Show all papers</summary>
+
 <div class="paper">
   <a class="ptitle" href="https://mitpress.universitypressscholarship.com/view/10.7551/mitpress/9780262018340.001.0001/upso-9780262018340-chapter-3" target="_blank" rel="noopener">The Role of Monetary Policy in Turkey During the Global Financial Crisis</a>
   <div class="pmeta">with Selim Elekdag · <span class="venue">The Great Recession: Lessons for Central Bankers</span>, MIT Press, 2013 · <a href="https://www.imf.org/en/Publications/WP/Issues/2016/12/31/The-Role-of-Monetary-Policy-in-Turkey-During-the-Global-Financial-Crisis-25005" target="_blank" rel="noopener">IMF WP</a></div>
@@ -118,3 +121,5 @@ title: Harun Alp
   <a class="ptitle" href="https://www.tcmb.gov.tr/wps/wcm/connect/24f3d2a2-2e0f-4eea-8f11-056f90ac2142/WP0811.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-24f3d2a2-2e0f-4eea-8f11-056f90ac2142-m3fw5Pc" target="_blank" rel="noopener">Transmission of Monetary Policy in Turkey: The Effects of Monetary Policy on Financial Markets</a>
   <div class="pmeta">with Zelal Aktas, Refet Gurkaynak, Mehtap Kesriyeli and Musa Orak · <span class="venue">İktisat İşletme ve Finans</span>, 2009, 24(278)</div>
 </div>
+
+</details>
