@@ -25,6 +25,16 @@ title: Harun Alp
   </details>
 </div>
 
+<div class="paper">
+  <a class="ptitle" href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
+  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde</div>
+  <div class="pmeta"><span class="venue">Review of Economic Studies</span>, forthcoming · <a href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Paper</a></div>
+  <details class="abs">
+    <summary>abstract</summary>
+    <div class="abstract">We study the firm-level and aggregate effects of government-imposed employment targets. We develop a dynamic general equilibrium model with heterogeneous firms and endogenous productivity growth in which penalties for below-target hiring generate a polarization mechanism: low-productivity firms exit, while others expand employment beyond efficient levels, and firms invest in productivity to avoid future penalties. We test and confirm the model’s firm level predictions using unique contractual data on more than 18,000 employment commitments from the East German privatization, exploiting quasi-random variation in the assignment of privatizers to firms. Quantitatively, employment targets reduce unemployment and raise welfare in the short run, but these effects fade as distorted labor allocations and weakened investment incentives slow aggregate productivity growth, leaving no lasting welfare gains. We also evaluate how alternative designs for employment-protection (e.g., the choice between mandates and subsidies, the structure of targets) impact misallocation and the resulting short- and long-run outcomes.</div>
+  </details>
+</div>
+
 ## Working Papers
 
 <div class="paper">
@@ -33,15 +43,6 @@ title: Harun Alp
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">This paper explores the symbiotic relationship between transformative entrepreneurs and inventors, which is crucial for economic growth. We utilize microdata from Denmark to demonstrate that while the relationship between IQ and general entrepreneurship tends to be negative, it is strongly positive among transformative entrepreneurs. Transformative entrepreneurs, often with higher IQ and education levels, significantly drive R&amp;D and business growth, thereby providing substantial opportunities for inventors. In contrast, average entrepreneurs are more influenced by their family’s entrepreneurship background. Our economic model links these dynamics to overall economic progress, highlighting how higher education influences career paths in entrepreneurship and invention. We identify talent misallocation caused by unequal education access, particularly affecting lower-income families. Our findings indicate the most effective policies strengthen the interplay between higher education, innovation, and entrepreneurship to foster transformative businesses and achieve long-run economic growth.</div>
-  </details>
-</div>
-
-<div class="paper">
-  <a class="ptitle" href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
-  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde · 2026 · <a href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Paper</a></div>
-  <details class="abs">
-    <summary>abstract</summary>
-    <div class="abstract">We study the firm-level and aggregate effects of government-imposed employment targets. We develop a dynamic general equilibrium model with heterogeneous firms and endogenous productivity growth in which penalties for below-target hiring generate a polarization mechanism: low-productivity firms exit, while others expand employment beyond efficient levels, and firms invest in productivity to avoid future penalties. We test and confirm the model’s firm level predictions using unique contractual data on more than 18,000 employment commitments from the East German privatization, exploiting quasi-random variation in the assignment of privatizers to firms. Quantitatively, employment targets reduce unemployment and raise welfare in the short run, but these effects fade as distorted labor allocations and weakened investment incentives slow aggregate productivity growth, leaving no lasting welfare gains. We also evaluate how alternative designs for employment-protection (e.g., the choice between mandates and subsidies, the structure of targets) impact misallocation and the resulting short- and long-run outcomes.</div>
   </details>
 </div>
 
