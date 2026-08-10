@@ -93,7 +93,7 @@ html[data-theme="dark"] #theme-toggle .sun { display: inline; }
 .hero {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
   margin-bottom: 1.9rem;
 }
 
