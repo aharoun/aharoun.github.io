@@ -38,7 +38,7 @@ title: Harun Alp
 ## Working Papers
 
 <div class="paper">
-  <a class="ptitle" href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Transformative and Subsistence Entrepreneurs: Origins and Impacts on Economic Growth</a>
+  <a class="ptitle" href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Transformative Entrepreneurs: Origins and Impacts on Economic Growth</a>
   <div class="pmeta">with Ufuk Akcigit, Jeremy Pearce and Marta Prato · 2025 · <a href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Paper</a></div>
   <details class="abs">
     <summary>abstract</summary>
