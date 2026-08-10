@@ -6,6 +6,16 @@ title: Harun Alp
 ## Publications
 
 <div class="paper">
+  <a class="ptitle" href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
+  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde</div>
+  <div class="pmeta"><span class="venue">Review of Economic Studies</span>, accepted · <a href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Paper</a></div>
+  <details class="abs">
+    <summary>abstract</summary>
+    <div class="abstract">We study the firm-level and aggregate effects of government-imposed employment targets. We develop a dynamic general equilibrium model with heterogeneous firms and endogenous productivity growth in which penalties for below-target hiring generate a polarization mechanism: low-productivity firms exit, while others expand employment beyond efficient levels, and firms invest in productivity to avoid future penalties. We test and confirm the model’s firm level predictions using unique contractual data on more than 18,000 employment commitments from the East German privatization, exploiting quasi-random variation in the assignment of privatizers to firms. Quantitatively, employment targets reduce unemployment and raise welfare in the short run, but these effects fade as distorted labor allocations and weakened investment incentives slow aggregate productivity growth, leaving no lasting welfare gains. We also evaluate how alternative designs for employment-protection (e.g., the choice between mandates and subsidies, the structure of targets) impact misallocation and the resulting short- and long-run outcomes.</div>
+  </details>
+</div>
+
+<div class="paper">
   <a class="ptitle" href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">Lack of Selection and Limits to Delegation: Firm Dynamics in Developing Countries</a>
   <div class="pmeta">with Ufuk Akcigit and Michael Peters</div>
   <div class="pmeta"><span class="venue">American Economic Review</span>, 2021, 111(1): 231–275 · <a href="assets/papers/aer.20180555.pdf" target="_blank" rel="noopener">Paper</a> / <a href="assets/papers/aap2021_online_appendix.pdf" target="_blank" rel="noopener">Appendix</a> / <a href="https://www.nber.org/papers/w21905" target="_blank" rel="noopener">NBER WP</a> / <a href="https://github.com/aharoun/AAP2020" target="_blank" rel="noopener">Code</a></div>
@@ -22,16 +32,6 @@ title: Harun Alp
   <details class="abs">
     <summary>abstract</summary>
     <div class="abstract">We build a model of firm-level innovation, productivity growth, and reallocation featuring endogenous entry and exit. A new and central economic force is the selection between high- and low-type firms, which differ in terms of their innovative capacity. We estimate the parameters of the model using US Census microdata on firm-level output, R&amp;D, and patenting. The model provides a good fit to the dynamics of firm entry and exit, output, and R&amp;D. Taxing the continued operation of incumbents can lead to sizable gains (of the order of 1.4 percent improvement in welfare) by encouraging exit of less productive firms and freeing up skilled labor to be used for R&amp;D by high-type incumbents. Subsidies to the R&amp;D of incumbents do not achieve this objective because they encourage the survival and expansion of low-type firms.</div>
-  </details>
-</div>
-
-<div class="paper">
-  <a class="ptitle" href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
-  <div class="pmeta">with Ufuk Akcigit, André Diegmann and Nicolas Serrano-Velarde</div>
-  <div class="pmeta"><span class="venue">Review of Economic Studies</span>, forthcoming · <a href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Paper</a></div>
-  <details class="abs">
-    <summary>abstract</summary>
-    <div class="abstract">We study the firm-level and aggregate effects of government-imposed employment targets. We develop a dynamic general equilibrium model with heterogeneous firms and endogenous productivity growth in which penalties for below-target hiring generate a polarization mechanism: low-productivity firms exit, while others expand employment beyond efficient levels, and firms invest in productivity to avoid future penalties. We test and confirm the model’s firm level predictions using unique contractual data on more than 18,000 employment commitments from the East German privatization, exploiting quasi-random variation in the assignment of privatizers to firms. Quantitatively, employment targets reduce unemployment and raise welfare in the short run, but these effects fade as distorted labor allocations and weakened investment incentives slow aggregate productivity growth, leaving no lasting welfare gains. We also evaluate how alternative designs for employment-protection (e.g., the choice between mandates and subsidies, the structure of targets) impact misallocation and the resulting short- and long-run outcomes.</div>
   </details>
 </div>
 
