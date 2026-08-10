@@ -64,7 +64,7 @@ html[data-theme="dark"] body {
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-.wrapper { max-width: 680px; margin: 0 auto; padding: 0 1.5rem; }
+.wrapper { max-width: 760px; margin: 0 auto; padding: 0 1.5rem; }
 
 main.wrapper { padding-top: 3.2rem; }
 
@@ -138,8 +138,8 @@ h1.name {
 .cv-link:hover { border-color: var(--accent); text-decoration: none; }
 
 .avatar {
-  width: 139px;
-  height: 139px;
+  width: 153px;
+  height: 153px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
@@ -185,7 +185,7 @@ a.ptitle:hover { color: var(--accent); text-decoration: none; }
   color: var(--meta);
   margin-top: .1rem;
 }
-.pmeta .venue { font-style: italic; }
+.pmeta .venue { font-weight: 600; font-style: italic; }
 .pmeta a { color: var(--accent); }
 
 .note {
@@ -274,7 +274,7 @@ footer { margin-top: 2.8rem; padding-bottom: 1.6rem; }
   .contacts { justify-content: center; }
 
   h1.name { font-size: 1.9rem; }
-  .avatar { width: 113px; height: 113px; }
+  .avatar { width: 124px; height: 124px; }
 
   #theme-toggle { top: .9rem; right: .9rem; width: 2.1rem; height: 2.1rem; font-size: .85rem; }
 
