@@ -1,4 +1,4 @@
-I"�4<h2 id="publications">Publications</h2>
+I"S;<h2 id="publications">Publications</h2>
 
 <div class="paper">
   <a class="ptitle" href="assets/papers/CommitmentsGDR.pdf" target="_blank" rel="noopener">Committing to Grow: Employment Targets and Firm Dynamics</a>
@@ -33,6 +33,15 @@
 <h2 id="working-papers">Working Papers</h2>
 
 <div class="paper">
+  <a class="ptitle" href="assets/papers/Trade_and_Innovation.pdf" target="_blank" rel="noopener">Can Tariffs Spur Innovation?</a>
+  <div class="pmeta">with Sina T. Ates · 2026 · <a href="assets/papers/Trade_and_Innovation.pdf" target="_blank" rel="noopener">Paper</a></div>
+  <details class="abs">
+    <summary>abstract</summary>
+    <div class="abstract">We study sector-specific import tariffs and innovation in a dynamic model of trade and endogenous growth where technology gaps between domestic and foreign firms determine the degree of competition and their innovation incentives. Tariffs alter this competitive pressure and, thereby, firms’ innovative effort. A tariff increase initially stimulates innovation only when domestic firms are sufficiently laggard in technology: by raising the cost of imports, it brings the home market within their reach and intensifies the competition to serve it. Tariffs weaken innovation when domestic firms are only moderately behind or the tariff increase is so large as to effectively shield domestic firms from foreign competition. Permanent tariff increases can reverse early gains as domestic firms regain their home market and competitive pressure weakens; temporary tariffs limit this decline. Retaliatory tariffs by the foreign country have little effect in sectors it leads, while foreign export subsidies can diminish U.S. market gains obtained via higher tariffs. Consistent with the theoretical mechanism, patent data around the 2018–2019 U.S.-China tariffs show stronger U.S. and Chinese patenting responses to tariff exposure in products where the U.S. lagged considerably.</div>
+  </details>
+</div>
+
+<div class="paper">
   <a class="ptitle" href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Transformative Entrepreneurs: Origins and Impacts on Economic Growth</a>
   <div class="pmeta">with Ufuk Akcigit, Jeremy Pearce and Marta Prato · 2025 · <a href="assets/papers/AAPP_May2025.pdf" target="_blank" rel="noopener">Paper</a></div>
   <details class="abs">
@@ -50,12 +59,6 @@
   </details>
 </div>
 
-<div class="paper">
-  <span class="ptitle">Technology Adoption and the Latin American TFP Gap</span>
-  <div class="pmeta">with Ufuk Akcigit, Maya Eden and Ha Nguyen</div>
-  <div class="note">draft available soon</div>
-</div>
-
 <h2 id="work-in-progress">Work in Progress</h2>
 
 <div class="paper">
@@ -66,6 +69,12 @@
 <div class="paper">
   <span class="ptitle">Cost of Size-dependent Regulations: The Role of Informality and Firm Heterogeneity</span>
   <div class="pmeta">with Ufuk Akcigit, Y. Emre Akgunduz, Seyit M. Cilasun and Jose M. Quintero</div>
+</div>
+
+<div class="paper">
+  <span class="ptitle">Technology Adoption and the Latin American TFP Gap</span>
+  <div class="pmeta">with Ufuk Akcigit, Maya Eden and Ha Nguyen</div>
+  <div class="note">draft available soon</div>
 </div>
 
 <h2 id="old-papers">Old Papers</h2>

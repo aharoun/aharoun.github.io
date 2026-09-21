@@ -2,8 +2,73 @@
    harunalp.net — "Dark Elegance"
    Light (default) and dark twins of one design, switched via
    html[data-theme] set by the inline script in _includes/head.html.
-   Fonts: Source Serif 4 (text) + Inter (meta, labels).
+   Fonts: TeX Gyre Pagella (text) + Fira Sans (meta, labels), matching the papers.
    ========================================================================== */
+
+/* ----- self-hosted paper fonts ----- */
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  src: url("/assets/fonts/tex-gyre-pagella-regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  src: url("/assets/fonts/tex-gyre-pagella-bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  src: url("/assets/fonts/tex-gyre-pagella-italic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "TeX Gyre Pagella";
+  src: url("/assets/fonts/tex-gyre-pagella-bolditalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/assets/fonts/fira-sans-regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/assets/fonts/fira-sans-medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/assets/fonts/fira-sans-semibold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/assets/fonts/fira-sans-italic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Fira Sans";
+  src: url("/assets/fonts/fira-sans-semibolditalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+}
 
 /* ----- theme tokens ----- */
 :root {
@@ -48,8 +113,8 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: "Source Serif 4", Georgia, serif;
-  font-size: 1rem;
+  font-family: "TeX Gyre Pagella", Palatino, Georgia, serif;
+  font-size: 1.2rem;
   line-height: 1.5;
   transition: background-color .3s ease, color .3s ease;
 }
@@ -80,7 +145,7 @@ main.wrapper { padding-top: 3.2rem; }
   border: 1px solid var(--chipline);
   background: var(--bg);
   color: var(--accent);
-  font-size: .95rem;
+  font-size: 1.14rem;
   cursor: pointer;
   transition: border-color .25s ease, background-color .3s ease;
 }
@@ -101,15 +166,15 @@ html[data-theme="dark"] #theme-toggle .sun { display: inline; }
 
 h1.name {
   margin: 0 0 .55rem;
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: 600;
   line-height: 1.15;
   color: var(--title);
 }
 
 .role {
-  font-family: "Inter", sans-serif;
-  font-size: .78rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .936rem;
   font-weight: 400;
   letter-spacing: .14em;
   text-transform: uppercase;
@@ -117,15 +182,15 @@ h1.name {
   margin: 0 0 .9rem;
 }
 
-.bio { font-size: .98rem; color: var(--bio); margin: 0 0 1rem; }
+.bio { font-size: 1.176rem; color: var(--bio); margin: 0 0 1rem; }
 
 .contacts { display: flex; align-items: center; gap: 1.1rem; }
-.contacts a { color: var(--icon); font-size: 1.1rem; }
+.contacts a { color: var(--icon); font-size: 1.32rem; }
 .contacts a:hover { color: var(--accent); text-decoration: none; }
 
 .cv-link {
-  font-family: "Inter", sans-serif;
-  font-size: .8rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .96rem;
   font-weight: 500;
   letter-spacing: .06em;
   text-transform: uppercase;
@@ -158,8 +223,8 @@ main h2 {
   align-items: center;
   gap: .9rem;
   margin: 2.05rem 0 .75rem;
-  font-family: "Inter", sans-serif;
-  font-size: .8rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .96rem;
   font-weight: 500;
   letter-spacing: .16em;
   text-transform: uppercase;
@@ -171,7 +236,7 @@ main h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 .paper { margin: 1.05rem 0; }
 
 .ptitle {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.3;
   color: var(--title);
@@ -179,8 +244,8 @@ main h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
 a.ptitle:hover { color: var(--accent); text-decoration: none; }
 
 .pmeta {
-  font-family: "Inter", sans-serif;
-  font-size: .84rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: 1.008rem;
   line-height: 1.45;
   color: var(--meta);
   margin-top: .1rem;
@@ -189,8 +254,8 @@ a.ptitle:hover { color: var(--accent); text-decoration: none; }
 .pmeta a { color: var(--accent); }
 
 .note {
-  font-family: "Inter", sans-serif;
-  font-size: .8rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .96rem;
   font-style: italic;
   color: var(--faint);
   margin-top: .2rem;
@@ -206,8 +271,8 @@ details.oldlist summary {
   display: inline-flex;
   align-items: center;
   gap: .45rem;
-  font-family: "Inter", sans-serif;
-  font-size: .78rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .936rem;
   letter-spacing: .03em;
   color: var(--accent);
   opacity: .85;
@@ -216,7 +281,7 @@ details.abs summary { text-transform: capitalize; }
 details.abs summary::-webkit-details-marker,
 details.oldlist summary::-webkit-details-marker { display: none; }
 details.abs summary::before,
-details.oldlist summary::before { content: "+"; font-size: .9rem; }
+details.oldlist summary::before { content: "+"; font-size: 1.08rem; }
 details.abs[open] summary::before,
 details.oldlist[open] summary::before { content: "\2212"; }
 details.abs summary:hover,
@@ -227,7 +292,7 @@ details.oldlist { margin: .9rem 0 1.05rem; }
 details.oldlist > .paper:first-of-type { margin-top: .8rem; }
 
 .abstract {
-  font-size: .92rem;
+  font-size: 1.104rem;
   color: var(--soft);
   line-height: 1.6;
   margin: .55rem 0 .3rem;
@@ -243,7 +308,7 @@ footer { margin-top: 2.8rem; padding-bottom: 1.6rem; }
   border-top: 1px solid var(--line);
   padding-top: 1rem;
   margin: 0 0 .8rem;
-  font-size: .8rem;
+  font-size: .96rem;
   font-style: italic;
   color: var(--faint);
 }
@@ -252,12 +317,12 @@ footer { margin-top: 2.8rem; padding-bottom: 1.6rem; }
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: "Inter", sans-serif;
-  font-size: .74rem;
+  font-family: "Fira Sans", Arial, sans-serif;
+  font-size: .888rem;
   color: var(--faint);
 }
 .foot-row .icons { display: flex; gap: .85rem; }
-.foot-row .icons a { color: var(--meta); font-size: .95rem; }
+.foot-row .icons a { color: var(--meta); font-size: 1.14rem; }
 .foot-row .icons a:hover { color: var(--accent); text-decoration: none; }
 
 /* ----- mobile ----- */
@@ -273,10 +338,10 @@ footer { margin-top: 2.8rem; padding-bottom: 1.6rem; }
   .hero .bio { text-align: left; }
   .contacts { justify-content: center; }
 
-  h1.name { font-size: 1.9rem; }
+  h1.name { font-size: 2.28rem; }
   .avatar { width: 149px; height: 149px; }
 
-  #theme-toggle { top: .9rem; right: .9rem; width: 2.1rem; height: 2.1rem; font-size: .85rem; }
+  #theme-toggle { top: .9rem; right: .9rem; width: 2.1rem; height: 2.1rem; font-size: 1.02rem; }
 
   .foot-row { flex-direction: column; gap: .7rem; }
 }
