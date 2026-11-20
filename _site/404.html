@@ -30,16 +30,29 @@
   
 
   
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q6BNNF0X06"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-
-  gtag('config', 'G-Q6BNNF0X06');
+  <script>
+  // Google Analytics. Skipped on local previews and in any browser that has
+  // visited the site once with ?notrack (undo with ?track).
+  (function () {
+    var off = false;
+    try {
+      if (/[?&]notrack\b/.test(location.search)) {
+        localStorage.setItem("notrack", "1");
+        alert("Visits from this browser will no longer be counted.");
+      }
+      if (/[?&]track\b/.test(location.search)) localStorage.removeItem("notrack");
+      off = localStorage.getItem("notrack") === "1";
+    } catch (e) {}
+    if (off || !/(^|\.)harunalp\.net$/.test(location.hostname)) return;
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "https://www.googletagmanager.com/gtag/js?id=G-Q6BNNF0X06";
+    document.head.appendChild(s);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { dataLayer.push(arguments); };
+    gtag("js", new Date());
+    gtag("config", "G-Q6BNNF0X06");
+  })();
 </script>
 
   
@@ -54,7 +67,7 @@
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="404" />
 <script type="application/ld+json">
-{"url":"/404.html","@type":"WebPage","headline":"404","description":"Harun Alp is a Principal Economist at the Federal Reserve Board of Governors.","@context":"https://schema.org"}</script>
+{"headline":"404","url":"/404.html","@type":"WebPage","description":"Harun Alp is a Principal Economist at the Federal Reserve Board of Governors.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
