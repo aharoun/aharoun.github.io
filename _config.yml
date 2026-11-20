@@ -31,7 +31,7 @@ scholar:      https://scholar.google.com/citations?user=mPSYF60AAAAJ&hl=en
 github:       aharoun
 
 # tracking id (UA tag defunct since 2023; add a GA4 id here if wanted)
-#analytics:
+analytics:    G-Q6BNNF0X06
 
 # repository
 #repo:         https://github.com/aharoun/aharoun.github.io
